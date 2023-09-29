@@ -4,4 +4,6 @@ public class SalaryTest {
     // ketika gaji >= 7000
 
     // ketika gaji < 7000
+
+    // Update test
 }
